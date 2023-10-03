@@ -8,7 +8,7 @@ export function ColorView() {
 
     return (
         <div>
-            <h2>Просмотр цвета:</h2>
+            <h1>Просмотр Цвета</h1>
             <div
                 style={{
                     width: '100px',
@@ -20,4 +20,7 @@ export function ColorView() {
         </div>
     );
 }
+
+
+
 
